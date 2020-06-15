@@ -1,1 +1,2 @@
-# Python-pygame for the Space Invaders
+# Python-pygame main.py is Space Invaders made by pygame
+# 
