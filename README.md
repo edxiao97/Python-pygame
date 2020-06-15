@@ -1,1 +1,1 @@
-# Python-pygame
+# Python-pygame for the Space Invaders
